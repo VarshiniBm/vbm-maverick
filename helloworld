@@ -1,3 +1,5 @@
 print("Hello World!!")
 name = varshini 
-print(name)
+print(name) 
+print('The best girl of the class is ' +name) #prints the statement and the Name
+print (len('Varshini')) #prints the length of the name 
